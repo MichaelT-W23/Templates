@@ -1,4 +1,4 @@
-## Templates
+# Templates
 These are templates for a React project and Vue project.
 
 ## Clone a React Project
