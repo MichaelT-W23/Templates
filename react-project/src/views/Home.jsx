@@ -1,4 +1,3 @@
-import React from 'react'
 import RouterBtn from '../components/RouterBtn'
 import '../styles/views/Home.css'
 
