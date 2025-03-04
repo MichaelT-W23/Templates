@@ -1,10 +1,10 @@
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
-import '../styles/components/RouterBtn.css';
+import styles from '../styles/components/RouterBtn.module.css';
 
 function RouterBtn({ path, buttonText }) {
   return (
-    <Link to={path} className="button">
+    <Link to={path} className={styles.button}>
       {buttonText}
     </Link>
   );
