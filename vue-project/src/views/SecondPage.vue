@@ -1,9 +1,9 @@
 <template>
-	<p class="title">Second Page</p>
-	<LinkBtn
-		:path="'/'"
-		:buttonText="'Go to Home page'">
-	</LinkBtn>
+  <p class="title">Second Page</p>
+  <LinkBtn
+    :path="'/'"
+    :buttonText="'Go to Home page'">
+  </LinkBtn>
 </template>
 
 
@@ -15,8 +15,9 @@ import LinkBtn from '../components/RouterBtn.vue';
 <style scoped>
 
 .title {
-	color: purple;
-	font-family: Arial, sans-serif;
+  color: purple;
+  font-family: Arial, sans-serif;
+  padding-left: 20px;
 }
 
 </style>
