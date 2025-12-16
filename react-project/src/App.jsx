@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <p className="text-2xl">TEST WEBSITE</p>
+      <p className="text-2xl pl-5">TEST WEBSITE</p>
       <AppRouter />
     </>
   );
