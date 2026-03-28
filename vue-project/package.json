@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
-    "vite": "^8.0.3"
+    "vite": "^5.4.21"
   },
   "overrides": {
     "flatted": "^3.4.2"
