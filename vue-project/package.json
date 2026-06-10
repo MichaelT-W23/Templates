@@ -13,8 +13,9 @@
     "vue-router": "^4.3.2"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
     "@vitejs/plugin-vue": "^6.0.5",
-    "vite": "^7.3.2"
+    "vite": "^8.0.16"
   },
   "overrides": {
     "flatted": "^3.4.2",
